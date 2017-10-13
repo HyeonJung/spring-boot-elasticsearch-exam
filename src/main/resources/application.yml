@@ -1,0 +1,4 @@
+elasticsearch:
+  clustername : hyeonjung
+  host : localhost
+  port : 9300
